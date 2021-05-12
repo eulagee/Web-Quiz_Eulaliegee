@@ -2,11 +2,11 @@
 
 Description
 <section>
---------------------------------------------------------------
+
 A quick coding quiz, it is all about JS. This is app is written from scratch.
 </section>
 
---------------------------------------------------------------
+
 Instruction 
 ---------------------------------------------------------------
  1. Click Start
