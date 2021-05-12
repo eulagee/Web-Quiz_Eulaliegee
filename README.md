@@ -1,9 +1,11 @@
 # # 04 Web APIs: Code Quiz
 
 Description
+<section>
 --------------------------------------------------------------
 A quick coding quiz, it is all about JS. This is app is written from scratch.
-<section>
+</section>
+
 --------------------------------------------------------------
 Instruction 
 ---------------------------------------------------------------
