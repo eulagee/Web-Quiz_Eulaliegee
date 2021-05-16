@@ -1,0 +1,62 @@
+.text-right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
+
+h1 {
+    text-align: center;
+    color: #000000;
+    font-size: 40px;
+}
+
+h2 {
+    text-align: center;
+    color: #1d0101;
+}
+
+body {
+    background-color: rgb(238, 238, 238);
+}
+
+a {
+    font-size: 24px;
+    font-weight: bold;
+    padding: auto;
+}
+
+#webquizbody,
+#startContainer,
+#scoreContainer {
+    text-align: center;
+    padding: 16vh
+}
+
+button {
+    background-color: #9935b8;
+    color: rgb(240, 240, 240);
+    border: groove;
+    border-radius: 10px;
+    padding: 10px 20px 10px 20px;
+    font-size: 20px;
+    font-family: monospace;
+    font-style: oblique;
+    margin: 6px;
+}
+
+button:hover {
+    transition-duration: 0.3s;
+    background-color: rgb(142, 102, 165);
+}
+
+.choices {
+    display: flex;
+    flex-direction: column;
+}
+
+#webquiz {
+    display: flex;
+    flex-direction: column;
+}
