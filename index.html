@@ -5,13 +5,13 @@
     <meta charset="UTF-8">
     <title>Coding Quiz</title>
     <link rel="stylesheet" href="Assets/codequiz.css" type="text/css">
-    <script src="assets/codequiz.js" type="text/javascript"></script>
+
 
 
 </head>
 
 <body>
-    <div class="container">
+    <div class="wrapper">
         <div class="col text-right">
             <a href="#" id="viewHighScore" onclick="viewHighScore()">View High Scores</a>
         </div>
@@ -34,11 +34,12 @@
 
             </div>
 
-            <div id="scoreContainer">
-
-            </div>
+            <div id="scoreContainer"> </div>
+            <div id="feedback" class="feedback hide"></div>
         </div>
 
+        <script src="./Assets/codequiz.js" type="text/javascript"></script>
+        <script src="./Assets/questions.js"></script>
 </body>
 
 </html>
